@@ -1,4 +1,4 @@
-# Common bash commands
+# Basics of bash scripting
 
 ## Variables <br>
 We can assign value to a variable temprorily <br>
