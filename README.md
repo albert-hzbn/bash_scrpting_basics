@@ -19,11 +19,11 @@ a="some string"
 Examples of increment operator <br>
 
 ```
-i+=1
+((i+=1))
 ```
 or
 ```
-i++
+((i++))
 ```
 or
 ```
